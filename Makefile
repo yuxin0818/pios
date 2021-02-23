@@ -16,6 +16,7 @@ OBJS = \
 	boot.o \
 	kernel_main.o \
 	linkedlist.o \
+	led.o \
 
 
 
