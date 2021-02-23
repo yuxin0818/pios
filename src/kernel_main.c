@@ -28,9 +28,9 @@ void kernel_main(){
 	*/
 	while (1) {
 		led_on();
-		delay(10000000);
+		delay(300);
 		led_off();
-		delay(10000000);
+		delay(300);
 	}
 }
 
