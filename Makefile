@@ -17,6 +17,8 @@ OBJS = \
 	kernel_main.o \
 	linkedlist.o \
 	led.o \
+	serial.o \
+	rprintf.o \
 
 
 
