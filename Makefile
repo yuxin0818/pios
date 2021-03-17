@@ -19,6 +19,8 @@ OBJS = \
 	led.o \
 	serial.o \
 	rprintf.o \
+	list.o \
+	page.o \
 
 
 
